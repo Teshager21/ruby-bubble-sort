@@ -33,4 +33,5 @@ def bubble_sort_by(arr)
   arr
 end
 
-puts bubble_sort_by([9, 2, 5, 3, 10, 0]) { |a, b| a - b }
+p bubble_sort_by([9, 2, 5, 3, 10, 0]) { |a, b| a - b }
+p bubble_sort([9, 2, 5, 3, 10, 0])
