@@ -18,3 +18,19 @@ def bubble_sort(arr)
   end
   arr
 end
+
+def bubble_sort_by(arr)
+  loop do
+    swap_counter = 0
+    (0...arr.length - 1).each do |i|
+      next unless yield(arr[i], arr[i + 1]).positive?
+
+      swap(arr, i, i + 1)
+      swap_counter += 1
+    end
+    break if swap_counter.zero?
+  end
+  arr
+end
+
+puts bubble_sort_by([9, 2, 5, 3, 10, 0]) { |a, b| a - b }
