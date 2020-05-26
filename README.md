@@ -21,7 +21,7 @@ To get a local copy up and running follow these simple example steps.
     1. Click on the install or download button under the repository name and grab the url
     by clicking on the clipboard icon
 
-![Step-1](Assets/images/howtoinstall.png)
+![Step-1](images/howtoinstall.png)
 
     2.open your terminal
 
