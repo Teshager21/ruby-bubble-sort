@@ -1,13 +1,15 @@
-#  Ruby Bubble Sort
+# Ruby Bubble Sort
 
+In this project,we implemented the bubble sort algorithm. We focused on the use of yield and passing a block to a method.
 
 ## Built With
 
-- Ruby
+- Ruby-2.5.1p57
 
-## Live Demo
+## Demo
 
-[Live Demo Link]()
+![screenshot](images/bubble.png)
+
 ## Milestone
 
 ## Getting Started
@@ -19,7 +21,7 @@ To get a local copy up and running follow these simple example steps.
     1. Click on the install or download button under the repository name and grab the url
     by clicking on the clipboard icon
 
-![Step-1](Assets/images/howtoinstall.png)
+![Step-1](images/howtoinstall.png)
 
     2.open your terminal
 
@@ -53,10 +55,10 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author**
 
-- Gmail: [Teshager Admasu](mailto:teshager8922@gmail.com)
-- Github: [@teshager21](https://github.com/teshager21)
-- Twitter: [@Teshage84907805](https://twitter.com/Teshage84907805)
-- Linkedin: [Teshager Admasu](https://www.linkedin.com/in/teshager-admasu-0000011a2/)
+- Github: [@githubhandle](https://github.com/chirchir12)
+- Twitter: [@twitterhandle](https://twitter.com/shadochir)
+- Linkedin: [linkedin](https://www.linkedin.com/in/emmanuel-chirchir/)
+- Email: [email](chirchir7370@gmail.com)
 
 ## 🤝 Contributing
 
@@ -70,11 +72,10 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Design concepts was inspired by [Mohammed Awad and others on Behance](https://www.behance.net/gallery/24796463/ZATTIX)
-- Images gotten from [pexels.com](https://www.pexels.com/)
-- Icons from [font awesome](https://fontawesome.com/)
-
+- [Microverse](https://www.microverse.org/)
+- [Odin Project](https://www.theodinproject.com//)
+- [Github](https://github.com/)
 
 ## 📝 License
-This project is [MIT](lic.url) licensed.
 
+This project is [MIT](lic.url) licensed.
